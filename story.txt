@@ -1,0 +1,8 @@
+Das ist eine kleine git Testdatei. 
+
+Eins
+Zwei 
+Drei
+Vuers
+Sechs
+Acht
